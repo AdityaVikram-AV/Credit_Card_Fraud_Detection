@@ -1,2 +1,2 @@
 # Kaggle Credit Card Fraud Detection
-using Machine Learning (Classification) and Deep Learning 
+Using Machine Learning and Deep Learning 
